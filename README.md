@@ -1,6 +1,6 @@
 <!-- FONDO Y TÍTULO -->
 <div align="center">
-  <h1>🧬 Predicción de Supervivencia en Pacientes con Cáncer</h1>
+  <h1>🧬 Predicción de Supervivencia en Pacientes con Cáncer en China</h1>
   <p>
     <strong>Modelo de Machine Learning para estimar el estado vital de pacientes basado en variables clínicas y genéticas.</strong>
   </p>
